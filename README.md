@@ -23,3 +23,7 @@ http://localhost:9393/product/delete/601/
 
 list all
 http://localhost:9393/product/list/
+
+Health check - 
+
+http://localhost:9393/product/actuator/health
