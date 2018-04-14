@@ -1,0 +1,4 @@
+You can simply create a data.sql file (or data-h2.sql if you only want it to be applied in case H2 is your database) in your 
+src/main/resources folder and it will be automatically executed on startup. In this file you just add some insert statements
+
+and similarly for schema-h2.sql
